@@ -1,6 +1,6 @@
 # **LLM-Based Unit Test Generation from Python Docstrings**  
 
-This project fine-tunes large language models (LLMs) to generate Python unit tests directly from function **docstrings**. The models are evaluated for accuracy, robustness, and generalization, using custom datasets and mutation testing techniques.
+This project fine-tunes large language models (LLMs - LLaMa, Gemini, GPT3.5) to generate Python unit tests directly from function **docstrings**. The models are evaluated for accuracy, robustness, and generalization, using custom datasets and mutation testing techniques.
 
 ---
 
